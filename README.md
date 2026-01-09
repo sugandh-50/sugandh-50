@@ -1,26 +1,21 @@
- Hi, I'm Sugandh 
+# 💫 About Me:
+ Hi, I'm Sugandh <br><br> I'm a first-year CSE AIML undergraduate at SRM University, AP, focused on building strong fundamentals in programming and problem solving.<br><br> What I'm Currently Learning-<br>. C++ & Object-Oriented Programming  <br>. Data Structures & Algorithms (beginner level)  <br>. Git & GitHub (version control)<br><br> My Goals-<br>. Develop strong problem-solving skills  <br>. Build clean and beginner-friendly projects  <br>. Maintain consistent learning and GitHub activity  <br><br> Tools & Technologies-<br>. Languages: C++, C (basics)<br>. Tools: Git, GitHub, VS Code<br><br> How I Work-<br>. Learn concepts step-by-step  <br>. Implement them through small projects  <br>. Document progress clearly in repositories  <br><br> Connect With Me-<br>. LinkedIn: www.linkedin.com/in/sugandh-kumar-1b0a5837b<br>. Email: sugandhkumar740@gmail.com<br>
 
- I'm a first-year CSE AIML undergraduate at SRM University, AP, focused on building strong fundamentals in programming and problem solving.
 
- What I'm Currently Learning-
-. C++ & Object-Oriented Programming  
-. Data Structures & Algorithms (beginner level)  
-. Git & GitHub (version control)
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Sugandh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sugandh_50) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sugandh Kumar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sugandh_50) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sugandh_50) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SUGANDH KUMAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sugandhkumar740@gmail.com) 
 
- My Goals-
-. Develop strong problem-solving skills  
-. Build clean and beginner-friendly projects  
-. Maintain consistent learning and GitHub activity  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sugandh-50&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sugandh-50&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sugandh-50&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
- Tools & Technologies-
-. Languages: C++, C (basics)
-. Tools: Git, GitHub, VS Code
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sugandh-50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
- How I Work-
-. Learn concepts step-by-step  
-. Implement them through small projects  
-. Document progress clearly in repositories  
+---
+[![](https://visitcount.itsvg.in/api?id=sugandh-50&icon=0&color=5)](https://visitcount.itsvg.in)
 
- Connect With Me-
-. LinkedIn: www.linkedin.com/in/sugandh-kumar-1b0a5837b
-. Email: sugandhkumar740@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
